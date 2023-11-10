@@ -1,0 +1,69 @@
+:root { 
+  --black: #000000;
+  --cape-cod: #414042;
+  --ghost: #cdd0d5;
+  --gunsmoke: #808285;
+  --mandy: #e45157;
+  --red: #ed1944;
+  --white: #ffffff;
+ 
+  --font-size-l: 31px;
+  --font-size-m: 26px;
+  --font-size-s: 23px;
+  --font-size-xl: 60px;
+  --font-size-xs: 22px;
+  --font-size-xxs: 20px;
+  --font-size-xxxs: 18px;
+ 
+  --font-family-montserrat: "Montserrat", Helvetica;
+  --font-family-museoslab-900: "MuseoSlab-900", Helvetica;
+  --font-family-sofiapro-light: "SofiaPro-Light", Helvetica;
+  --font-family-sofiapro-medium: "SofiaPro-Medium", Helvetica;
+}
+.sofiapro-light-black-22px {
+  color: var(--black);
+  font-family: var(--font-family-sofiapro-light);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.sofiapro-medium-white-26px {
+  color: var(--white);
+  font-family: var(--font-family-sofiapro-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.museoslab-900-normal-red-60px {
+  color: var(--red);
+  font-family: var(--font-family-museoslab-900);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sofiapro-medium-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-sofiapro-medium);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.sofiapro-light-black-26px {
+  color: var(--black);
+  font-family: var(--font-family-sofiapro-light);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.sofiapro-light-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-sofiapro-light);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 300;
+}
